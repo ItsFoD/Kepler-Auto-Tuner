@@ -108,6 +108,11 @@ A total of **17 models** were evaluated:
 
 1. Clone this repository.  
 2. Install dependencies:  
-
-   ```bash
-   pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Open the Jupyter Notebook:  
+    ```bash
+    jupyter notebook space.ipynb
+    ```
+4. Run all cells in the notebook to execute the pipeline and view results.
